@@ -1,0 +1,2 @@
+rootProject.name='PopUpMenuExample'
+include ':app'

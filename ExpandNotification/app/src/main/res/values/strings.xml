@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ExpandNotification</string>
+    <string name="notification_text">
+        install django
+        pip install django==version
+
+        start a project
+        django-admin startproject name .
+
+        start a server
+        python manage.py runserver
+
+        to start an app
+        python manage.py startapp name
+        NOTE - register your app in the settings module
+
+        to make migrations to the database through models
+        python manage.py makemigrations
+        and to migrate
+        python manage.py migrate
+        NOTE - dont forget to register your model class in admin
+
+        to create superuser
+        python manage.py createsuperuser
+    </string>
+</resources>

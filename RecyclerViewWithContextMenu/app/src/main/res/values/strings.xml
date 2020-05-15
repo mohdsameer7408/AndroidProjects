@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RecyclerViewWithContextMenu</string>
+
+    <string-array name="fruit_names">
+
+        <item>Apple</item>
+        <item>Avocado</item>
+        <item>Banana</item>
+        <item>Cherry</item>
+        <item>Grapes</item>
+        <item>Kiwi</item>
+        <item>Lemon</item>
+        <item>Mango</item>
+        <item>Tomato</item>
+
+    </string-array>
+
+</resources>

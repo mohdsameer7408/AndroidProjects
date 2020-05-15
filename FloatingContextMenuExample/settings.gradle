@@ -1,0 +1,2 @@
+rootProject.name='FloatingContextMenuExample'
+include ':app'

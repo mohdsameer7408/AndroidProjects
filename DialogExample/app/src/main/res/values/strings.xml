@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DialogExample</string>
+
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+
+    <string-array name="toppings">
+        <item>Onion</item>
+        <item>Lettuce</item>
+        <item>Tomato</item>
+    </string-array>
+</resources>

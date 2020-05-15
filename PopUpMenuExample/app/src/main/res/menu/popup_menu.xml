@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_move"
+        android:title="Move To"/>
+
+    <item
+        android:id="@+id/action_label"
+        android:title="Change Labels"/>
+
+    <item
+        android:id="@+id/action_important"
+        android:title="Mark Important"/>
+
+    <item
+        android:id="@+id/action_mute"
+        android:title="Mute"/>
+
+    <item
+        android:id="@+id/action_print"
+        android:title="Print"/>
+
+    <item
+        android:id="@+id/action_spam"
+        android:title="Report Spam"/>
+
+</menu>
